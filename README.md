@@ -1,42 +1,67 @@
-# 🥟 Cakwe Enak — Website Makanan Cakwe
+# Lina Cakwe
 
-> "Dari tepung, jadi cuan." — pepatah tukang cakwe bijak
+**Teman Ngemil**
 
-Selamat datang di repo **Cakwe Enak**, tempat lahirnya website yang didedikasikan sepenuhnya untuk sepotong makanan panjang, garing di luar, empuk di dalam, dan enaknya bikin lupa diet. Ya, kami serius bikin website buat CAKWE. Kalau tetangga sebelah bikin startup fintech bernilai miliaran, kami bikin platform digital buat gorengan. Prioritas yang benar.
+Lina Cakwe adalah brand kuliner yang menghadirkan cakwe sebagai camilan sederhana, nikmat, dan cocok menjadi teman ngemil kapan saja.
 
-![Banner](https://via.placeholder.com/1200x300?text=Cakwe+Enak)
+## Tentang Lina Cakwe
 
-## 📋 Daftar Isi
+Lina Cakwe menghadirkan **Cakwe Original** dengan karakter renyah, gurih, dan tekstur berongga yang khas. Cakwe disajikan bersama cocolan saus asam manis merah dengan cita rasa yang menjadi bagian dari pengalaman menikmati produk Lina Cakwe.
 
-- [Tentang Proyek](#-tentang-proyek)
-- [Kontak](#-kontak)
+Lina Cakwe berdiri sejak **2018** dan berlokasi di Pekanbaru, Riau, Indonesia.
 
-## 📖 Tentang Proyek
+## Produk
 
-**Cakwe Enak** lahir dari sebuah pertanyaan eksistensial: "Kenapa cakwe cuma bisa dibeli sambil teriak-teriak manggil abangnya lewat depan rumah?" Maka lahirlah website ini, sebuah revolusi digital di dunia per-cakwe-an Indonesia.
+### Cakwe Original
 
-Website ini punya misi mulia:
+Cakwe klasik yang renyah dan gurih, dengan tekstur berongga sarang lebah dan cocolan saus asam manis merah khas.
 
-- Menyelamatkan pelanggan dari drama "lupa gak beli cakwe pas abangnya lewat"
-- Membuktikan bahwa gorengan juga layak punya landing page kece
-- Meningkatkan gengsi cakwe di mata dunia perdigitalan
-- Bikin dompet lebih boros karena checkout jadi terlalu gampang
+* **Harga:** Rp5.000
+* **Porsi:** 1 batang / sekitar 30 cm
+* **Kategori:** Camilan / Cakwe
 
-Singkatnya: kami bawa cakwe dari pinggir jalan ke pinggir layar HP kamu.
+## Lokasi
 
-## 🖼️ Screenshot
+**Lina Cakwe**
+Jl. Imam Munandar No.312 C-D
+Tengkerang Labuai, Bukit Raya
+Pekanbaru, Riau 28288
+Indonesia
 
-| Halaman Utama | Menu | Checkout |
-|---------------|------|----------|
-| ![home](https://via.placeholder.com/300x200) | ![menu](https://via.placeholder.com/300x200) | ![checkout](https://via.placeholder.com/300x200) |
+Lokasi berada di sebelah Bank BCA.
 
+## Jam Operasional
 
-## 📞 Kontak
+Setiap hari:
 
-**Cakwe Enak**
-📱 WhatsApp: +62 812-***-***
-📍 Instagram: [@cakweenak](https://instagram.com/)
+**07.00 – 12.00 WIB**
+
+## Website Resmi
+
+Informasi lengkap mengenai Lina Cakwe, menu, galeri, jurnal, dan kontak tersedia melalui website resmi:
+
+**https://linacakwe.store/**
+
+## Halaman Resmi
+
+* [Website](https://linacakwe.store/)
+* [Tentang Lina Cakwe](https://linacakwe.store/tentang.html)
+* [Menu](https://linacakwe.store/menu.html)
+* [Galeri](https://linacakwe.store/galeri.html)
+* [Jurnal](https://linacakwe.store/jurnal.html)
+* [Kontak](https://linacakwe.store/kontak.html)
+
+## Social
+
+* Instagram: [@linacakwe](https://instagram.com/linacakwe)
+
+## Kontak
+
+**WhatsApp:** +62 812-6964-3469
+**Email:** [linacakwe01@gmail.com](mailto:linacakwe01@gmail.com)
 
 ---
 
-⭐ Kalau suka repo ini, kasih **star** ya. Gratis kok, gak kayak cakwe.
+> **Lina Cakwe — Teman Ngemil**
+
+This repository serves as a public reference for Lina Cakwe's brand information and related documentation.
